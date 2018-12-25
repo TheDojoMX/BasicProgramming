@@ -1,3 +1,9 @@
+"""
+Juego adivina el número:
+Escoge un número entre 1 y 100 y acuérdate de él.
+Este algoritmo lo intentará adivinar en menos de 8 intentos.
+"""
+
 def guess():
     inf_limit = 1
     sup_limit = 100
