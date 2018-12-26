@@ -1,5 +1,5 @@
 """
-Juego adivina el número:
+Juego: La computadorea adivina el número:
 Escoge un número entre 1 y 100 y acuérdate de él.
 Este algoritmo lo intentará adivinar en menos de 8 intentos.
 """
